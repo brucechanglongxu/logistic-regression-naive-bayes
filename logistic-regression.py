@@ -1,4 +1,6 @@
 # Training the logistic regression classifer (why can logistic regression be implemented in fewer lines of code?)
+# Compare relative/marginal increase in lines of code regarding certain features with classification accuracy
+
 import math
 import csv
 import numpy as np
